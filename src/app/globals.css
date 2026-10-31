@@ -1,0 +1,7 @@
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #0b1020; color: #e8eefc; font-family: Arial, sans-serif; }
+main { max-width: 960px; margin: 0 auto; padding: 5rem 1.5rem; }
+h1 { font-size: clamp(2.5rem, 8vw, 5rem); margin-bottom: 1rem; }
+p { color: #b8c4df; font-size: 1.1rem; line-height: 1.6; }
+.card { margin-top: 2rem; padding: 1.5rem; border: 1px solid #263454; border-radius: 1rem; background: #111936; }
